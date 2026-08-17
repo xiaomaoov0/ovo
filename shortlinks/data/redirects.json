@@ -1,0 +1,29 @@
+{
+  "redirects": {
+    "abc123": {
+      "target": "aHR0cHM6Ly9iYWlkdS5jb20=", 
+      "created": "2026-04-18T12:00:00Z",
+      "remark": "百度首页"
+    },
+    "def789012": {
+      "target": "aHR0cHM6Ly9nb29nbGUuY29t",
+      "created": "2026-04-18T12:30:00Z",
+      "remark": "谷歌搜索"
+    },       
+    "shuyue": {
+      "target": "aHR0cHM6Ly9jaGF0LnNodXl1ZS5sb3Zl",
+      "created": "2026-04-18T12:30:00Z",
+      "remark": "书月AI聊天机器人"
+    },    
+    "video": {
+      "target": "aHR0cHM6Ly93d3cuZG91eWluLmNvbS92aWRlby83NDc5Njk3NTUyNjExMjY1ODU1",
+      "created": "2026-04-18T12:30:00Z",
+      "remark": "抖音某个热门视频"
+    },   
+    "ghi345678": {
+      "target": "aHR0cHM6Ly93d3cuamF2YXNjcmlwdC5jb20",
+      "created": "2026-04-18T13:00:00Z",
+      "remark": "JS官网学习资料"
+    }
+  }
+}
